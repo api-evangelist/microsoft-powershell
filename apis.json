@@ -1,0 +1,53 @@
+{
+    "name": "Microsoft Powershell",
+    "description": "<p>PowerShell is an automation platform and scripting language for Windows and Windows Server that allows you to simplify the management of your systems. Unlike other text-based shells, PowerShell harnesses the power of the .NET Framework, providing rich objects and a massive set of built-in functionality for taking control of your Windows environments.&nbsp;<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/PowerShell logo.png",
+    "tags": [
+        "api service provider",
+        "command line interface",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/microsoft-powershell\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Microsoft Powershell",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/PowerShell logo.png",
+            "humanURL": "https:\/\/msdn.microsoft.com\/en-us\/powershell\/mt173057.aspx",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/microsoft-powershell-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/microsoft-powershell-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/blogs.msdn.microsoft.com\/powershell\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/blogs.msdn.microsoft.com\/powershell\/feed\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/powershell"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/msdn.microsoft.com\/en-us\/powershell\/mt173057.aspx"
+        }
+    ]
+}
